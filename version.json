@@ -1,0 +1,16 @@
+{
+  "android": {
+    "latestVersion": "2.2.8",
+    "googlePlayUrl": "market://details?id=ru.nisglonass.smartloading",
+    "ruStoreUrl": "rustore://apps.rustore.ru/app/ru.nisglonass.smartloading"
+  },
+  "ios": {
+    "latestVersion": "2.2.8",
+    "appStoreUrl": "itms-apps://itunes.apple.com/app/ru.nisglonass.smartloading"
+  },
+  "updatedAt": "2023-10-30T12:00:00Z",
+  "releaseNotes": {
+    "ru": "- Добавлена проверка актуальности версии приложения\n- Улучшена стабильность работы\n- Исправлены ошибки",
+    "en": "- Added application version check\n- Improved stability\n- Bug fixes"
+  }
+} 
